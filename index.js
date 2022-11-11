@@ -56,9 +56,6 @@ let flag_end = false;
 
 const display = (index) => {
 
-  console.log(flag_end);
-  // console.log(arr)
-
   let x = null;
 
   if (!flag_end) {
